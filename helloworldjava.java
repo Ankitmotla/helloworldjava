@@ -1,6 +1,6 @@
 public class helloworldjava {
    public static void main(String[] args) {
-    System.out.println("Webhook testing");
+    System.out.println("Webhook testing done");
     }
 }
 
